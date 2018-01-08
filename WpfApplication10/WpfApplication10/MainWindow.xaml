@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplication10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ComboBox HorizontalAlignment="Left" Margin="217,103,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Opcja1" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Opcja2" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
