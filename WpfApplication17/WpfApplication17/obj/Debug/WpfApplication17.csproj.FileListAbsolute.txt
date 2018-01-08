@@ -1,0 +1,13 @@
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\bin\Debug\WpfApplication17.exe.config
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\MainWindow.baml
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\MainWindow.g.cs
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\App.g.cs
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17_MarkupCompile.cache
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17.g.resources
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17.Properties.Resources.resources
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17.csproj.GenerateResource.Cache
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\bin\Debug\WpfApplication17.exe
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\bin\Debug\WpfApplication17.pdb
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17.exe
+c:\users\local\documents\visual studio 2013\Projects\WpfApplication17\WpfApplication17\obj\Debug\WpfApplication17.pdb

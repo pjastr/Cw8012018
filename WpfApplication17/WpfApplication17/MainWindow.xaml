@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApplication17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Imię" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="84,82,0,0"/>
+        <Label Content="Nazwisko" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="3.076,6.176" Margin="84,133,0,0"/>
+        <Label Content="Data urodzenia" HorizontalAlignment="Left" Margin="84,190,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ImieT" HorizontalAlignment="Left" Height="23" Margin="226,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="NazwiskoT" HorizontalAlignment="Left" Height="23" Margin="226,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="317,255,0,0" Click="Button_Click"/>
+        <TextBlock x:Name="OpisT" HorizontalAlignment="Left" Margin="67,255,0,0" TextWrapping="Wrap" Text="Opis osoby" VerticalAlignment="Top"/>
+        <DatePicker x:Name="Data2" HorizontalAlignment="Left" Margin="226,190,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
